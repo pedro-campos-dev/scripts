@@ -7,9 +7,15 @@ Steps to run the script:
 3 - Make sure the csv files are on the same folder as the current script
 
 4 - Run:
-    npm start INPUT_FILE_NAME OUTPUT_FILE_NAME
+    npm start FUNC_NAME INPUT_FILE_NAME OUTPUT_FILE_NAME ADDITIONAL_PARAMS
 
 Example:
     
-    npm start inputFile.csv outputFile.csv
+    npm start hostedSuiteLinks inputFile.csv outputFile.csv
+
+
+Functions:
+
+hostedSuiteLinks -> Update hostedSuiteLinks
+callRecords -> Update callRecords with new question field
 
