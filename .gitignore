@@ -1,3 +1,17 @@
 node_modules
 
 *.csv
+
+*.cls
+
+.sfdx
+
+.prettierrc
+
+*.pem
+
+.env
+.env.prod
+
+*.jks
+*.p12
