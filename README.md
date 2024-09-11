@@ -18,4 +18,5 @@ Functions:
 
 hostedSuiteLinks -> Update hostedSuiteLinks
 callRecords -> Update callRecords with new question field
+retrieveFaqs -> Get FAQs and filter to check special characters
 
