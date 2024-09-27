@@ -7,12 +7,11 @@ Steps to run the script:
 3 - Make sure the csv files are on the same folder as the current script
 
 4 - Run:
-    npm start FUNC_NAME INPUT_FILE_NAME OUTPUT_FILE_NAME ADDITIONAL_PARAMS
+npm start FUNC_NAME INPUT_FILE_NAME OUTPUT_FILE_NAME ADDITIONAL_PARAMS
 
 Example:
-    
-    npm start hostedSuiteLinks inputFile.csv outputFile.csv
 
+    npm start hostedSuiteLinks inputFile.csv outputFile.csv
 
 Functions:
 
@@ -22,3 +21,4 @@ callRecords -> Update callRecords with new question field
 
 retrieveFaqs -> Get FAQs and filter to check special characters
 
+cachRecords -> Enable Contact Availability Call Handlers
