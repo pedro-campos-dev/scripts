@@ -22,3 +22,5 @@ callRecords -> Update callRecords with new question field
 retrieveFaqs -> Get FAQs and filter to check special characters
 
 cachRecords -> Enable Contact Availability Call Handlers
+
+updateKeywords -> Update the Keywords\_\_c field on Salesforce with accounts and contact names
